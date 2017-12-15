@@ -1,0 +1,26 @@
+#Hello There read this for more Info.
+
+The Idea behind the Bot-Framework Project is to have a tool for Pen Testing or
+just simply jokes to be able to generate first and foremost a ton of social media
+accounts using 2 or more strings to make the Browser create these in such a matter
+that they are in fact being made at the same time. There should also be some type
+of options when it does come to the customization of the accounts. should they
+be linked?, Should they be generated with random Data. Or must it be specific.
+As of right now we have been testing the framework now as The splinter Framework.
+As such we may change this in the future so please do have patience. There also
+may be a tool that will be released after the main Framework has been built called
+Social Bot (will be integrated). (Probably 2-3 Months) It will use the api of the specific site site
+selected andy read the config files with the appropriate pregenerated socials.
+Then it will execute different types of spam attacks at your request.
+We also wish to implement Store bots in the future but will not be giving any
+Info on that behalf.
+
+
+Change Gorilla Api To make simpler
+
+
+PLEASE DO NOTE!
+THIS IS INTENDED FOR EDUCATIONAL USE!
+THE GNU LICENSE APPLIES FOR ALL FILES PROVIDED BY THE AUTHOR
+That this File is intended to give you an idea of what the project is about.
+Some Features may be implemented at a much later Date.
